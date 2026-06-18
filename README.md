@@ -12,7 +12,7 @@ Aplicação web para auxílio no diagnóstico de problemas básicos de informát
 
 ---
 
-## Tecnologias Utilizadas
+## Ferramentas Utilizadas
 
 | Tecnologia | Finalidade |
 |---|---|
